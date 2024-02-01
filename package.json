@@ -1,0 +1,15 @@
+{
+  "name": "trending-frames",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/ramda": "^0.29.10",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "ramda": "^0.29.1"
+  }
+}
